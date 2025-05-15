@@ -1,0 +1,112 @@
+[
+  {
+    "id": 0,
+    "certainty": true,
+    "difficulty_offline": false,
+    "difficulty_online": false,
+    "multi_hop": true,
+    "long_tail": true,
+    "time_sensitive": true,
+    "freshness": false,
+    "mixed_truth": false,
+    "false_premise": false,
+    "domain": [
+      "history",
+      "geography"
+    ],
+    "advantage_language": [
+      "English",
+      "Chinese"
+    ],
+    "query_zh": "2017年国家和地区人口排名列表中排名第221位的国家在什么时候独立？",
+    "answer_zh": "帕劳于1994年独立",
+    "query_en": "When did the country ranked 221st in the 2017 list of countries and regions by population gain independence?",
+    "answer_en": "Palau gained independence in 1994.",
+    "sources": [
+      "https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E5%9B%BD%E5%AE%B6%E5%92%8C%E5%9C%B0%E5%8C%BA%E4%BA%BA%E5%8F%A3%E6%8E%92%E5%90%8D%E5%88%97%E8%A1%A8",
+      "https://zh.wikipedia.org/wiki/%E5%B8%9B%E7%90%89"
+    ]
+  },
+  {
+    "id": 1,
+    "certainty": true,
+    "difficulty_offline": false,
+    "difficulty_online": false,
+    "multi_hop": true,
+    "long_tail": false,
+    "time_sensitive": false,
+    "freshness": true,
+    "mixed_truth": false,
+    "false_premise": false,
+    "domain": [
+      "film_and_tv",
+      "history"
+    ],
+    "advantage_language": [
+      "English",
+      "Chinese"
+    ],
+    "query_zh": "人生切割术第二季发布的时候斐济总理是谁",
+    "answer_zh": "人生切割术第二季发布为2025年1月17日，此时斐济总理为西蒂韦尼·兰布卡",
+    "query_en": "Who was the Prime Minister of Fiji when Severance Season 2 was released?",
+    "answer_en": "Severance Season 2 was released on January 17, 2025, and at that time, the Prime Minister of Fiji was Sitiveni Rabuka.",
+    "sources": [
+      "https://www.imdb.com/title/tt11280740/episodes/?year=2025&ref_=ttep",
+      "https://zh.wikipedia.org/zh-cn/%E8%A5%BF%E8%92%82%E9%9F%A6%E5%B0%BC%C2%B7%E5%85%B0%E5%B8%83%E5%8D%A1"
+    ]
+  },
+  {
+    "id": 2,
+    "certainty": true,
+    "difficulty_offline": false,
+    "difficulty_online": true,
+    "multi_hop": true,
+    "long_tail": false,
+    "time_sensitive": true,
+    "freshness": true,
+    "mixed_truth": false,
+    "false_premise": false,
+    "domain": [
+      "news",
+      "others"
+    ],
+    "advantage_language": [
+      "English",
+      "Chinese"
+    ],
+    "query_zh": "2025年胡润全球富豪榜发布时OpenAI是否发布了GPT-4.5？",
+    "answer_zh": "是的",
+    "query_en": "Will OpenAI have released GPT-4.5 when the 2025 Hurun Global Rich List is released?",
+    "answer_en": "Yes",
+    "sources": [
+      "https://news.qq.com/rain/a/20250327A06PKH00",
+      "https://news.qq.com/rain/a/20250228A015SW00"
+    ]
+  },
+  {
+    "id": 3,
+    "certainty": true,
+    "difficulty_offline": false,
+    "difficulty_online": false,
+    "multi_hop": false,
+    "long_tail": false,
+    "time_sensitive": true,
+    "freshness": false,
+    "mixed_truth": false,
+    "false_premise": true,
+    "domain": [
+      "sports"
+    ],
+    "advantage_language": [
+      "English",
+      "Chinese"
+    ],
+    "query_zh": "2026年国际足联女子世界杯在哪三个北美国家举行？",
+    "answer_zh": "2026年不会有女子世界杯比赛",
+    "query_en": "In what three North American countries will the 2026 FIFA's Women World Cup take place?",
+    "answer_en": "There won't be a FIFA's Women World Cup in 2026.",
+    "sources": [
+      "http://en.wikipedia.org/wiki/FIFA_Women%27s_World_Cup"
+    ]
+  }
+]
