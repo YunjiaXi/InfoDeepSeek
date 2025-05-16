@@ -68,7 +68,7 @@
     "distracting_info": true,
     "false_premise": false,
     "domain": [
-      "academia"
+      "science_and_technology"
     ],
     "advantage_language": [
       "English",
@@ -95,7 +95,7 @@
     "distracting_info": true,
     "false_premise": true,
     "domain": [
-      "academia"
+      "science_and_technology"
     ],
     "advantage_language": [
       "English"
@@ -207,7 +207,7 @@
     "false_premise": false,
     "domain": [
       "history",
-      "biology"
+      "science_and_technology"
     ],
     "advantage_language": [
       "Japanese",
@@ -235,7 +235,7 @@
     "distracting_info": true,
     "false_premise": false,
     "domain": [
-      "literature"
+      "literature_and_art"
     ],
     "advantage_language": [
       "Italian",
@@ -263,7 +263,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "literature"
+      "literature_and_art"
     ],
     "advantage_language": [
       "Italian",
@@ -402,7 +402,8 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "politics",
+      "news"
     ],
     "advantage_language": [
       "English"
@@ -569,7 +570,7 @@
     "false_premise": false,
     "domain": [
       "history",
-      "biology"
+      "science_and_technology"
     ],
     "advantage_language": [
       "Japanese",
@@ -597,7 +598,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "medicine",
+      "science_and_technology",
       "education"
     ],
     "advantage_language": [
@@ -627,7 +628,7 @@
     "distracting_info": true,
     "false_premise": false,
     "domain": [
-      "medicine",
+      "science_and_technology",
       "education"
     ],
     "advantage_language": [
@@ -815,7 +816,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "literature"
+      "literature_and_art"
     ],
     "advantage_language": [
       "Japanese",
@@ -843,7 +844,7 @@
     "distracting_info": true,
     "false_premise": true,
     "domain": [
-      "literature"
+      "literature_and_art"
     ],
     "advantage_language": [
       "Japanese",
@@ -899,7 +900,7 @@
     "false_premise": false,
     "domain": [
       "politics",
-      "literature"
+      "literature_and_art"
     ],
     "advantage_language": [
       "Icelandic"
@@ -979,7 +980,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "art"
+      "literature_and_art"
     ],
     "advantage_language": [
       "English"
@@ -1033,7 +1034,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "art"
+      "literature_and_art"
     ],
     "advantage_language": [
       "English"
@@ -1086,7 +1087,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "art"
+      "literature_and_art"
     ],
     "advantage_language": [
       "English"
@@ -1273,8 +1274,8 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "literature",
-      "lifestyle"
+      "literature_and_art",
+      "humanities"
     ],
     "advantage_language": [
       "Slovene"
@@ -1301,7 +1302,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "literature"
+      "literature_and_art"
     ],
     "advantage_language": [
       "Slovene"
@@ -1433,7 +1434,7 @@
     "distracting_info": true,
     "false_premise": false,
     "domain": [
-      "others",
+      "science_and_technology",
       "news",
       "education"
     ],
@@ -1463,10 +1464,10 @@
     "false_premise": false,
     "domain": [
       "film_and_tv",
-      "lifestyle"
+      "humanities"
     ],
     "advantage_language": [
-      "others",
+      "Korean",
       "English"
     ],
     "query_zh": "在韩剧《遇见完美男人的方法》饰演李赫的演员的宗教信仰是什么？",
@@ -1494,7 +1495,7 @@
       "music"
     ],
     "advantage_language": [
-      "others",
+      "Korean",
       "English"
     ],
     "query_zh": "在加州汽车旅店中饰演尹兰雨的演员参与的第一个MV是什么？",
@@ -1519,7 +1520,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "culture",
+      "humanities",
       "geography"
     ],
     "advantage_language": [
@@ -1602,7 +1603,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "literature"
+      "literature_and_art"
     ],
     "advantage_language": [
       "English",
@@ -1711,8 +1712,8 @@
     "distracting_info": true,
     "false_premise": true,
     "domain": [
-      "biology",
-      "science"
+      "science_and_technology",
+      "science_and_technology"
     ],
     "advantage_language": [
       "English",
@@ -1766,8 +1767,8 @@
     "distracting_info": false,
     "false_premise": true,
     "domain": [
-      "biology",
-      "science"
+      "science_and_technology",
+      "science_and_technology"
     ],
     "advantage_language": [
       "English",
@@ -1794,7 +1795,8 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "entertainment",
+      "film_and_tv"
     ],
     "advantage_language": [
       "Chinese"
@@ -1847,7 +1849,8 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "history",
+      "politics"
     ],
     "advantage_language": [
       "Chinese"
@@ -2096,7 +2099,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "literature"
+      "literature_and_art"
     ],
     "advantage_language": [
       "Chinese"
@@ -2150,7 +2153,7 @@
     "false_premise": false,
     "domain": [
       "politics",
-      "science",
+      "science_and_technology",
       "education"
     ],
     "advantage_language": [
@@ -2209,7 +2212,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "medicine",
+      "science_and_technology",
       "politics"
     ],
     "advantage_language": [
@@ -2239,8 +2242,8 @@
     "distracting_info": true,
     "false_premise": true,
     "domain": [
-      "biology",
-      "science"
+      "science_and_technology",
+      "science_and_technology"
     ],
     "advantage_language": [
       "English"
@@ -2293,7 +2296,7 @@
     "distracting_info": true,
     "false_premise": false,
     "domain": [
-      "economy",
+      "social_sciences",
       "geography"
     ],
     "advantage_language": [
@@ -2321,7 +2324,8 @@
     "distracting_info": true,
     "false_premise": false,
     "domain": [
-      "politics"
+      "politics",
+      "news"
     ],
     "advantage_language": [
       "English"
@@ -2376,7 +2380,8 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "literature_and_art",
+      "entertainment"
     ],
     "advantage_language": [
       "Chinese"
@@ -2428,7 +2433,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "art"
+      "literature_and_art"
     ],
     "advantage_language": [
       "Chinese",
@@ -2455,7 +2460,8 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "music",
+      "sports"
     ],
     "advantage_language": [
       "Chinese"
@@ -2509,7 +2515,8 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "education",
+      "history"
     ],
     "advantage_language": [
       "Chinese"
@@ -2535,7 +2542,8 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "history",
+      "literature_and_art"
     ],
     "advantage_language": [
       "Japanese",
@@ -2562,7 +2570,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "literature"
+      "literature_and_art"
     ],
     "advantage_language": [
       "Chinese"
@@ -2588,7 +2596,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "literature"
+      "literature_and_art"
     ],
     "advantage_language": [
       "English",
@@ -2615,7 +2623,8 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "history",
+      "geography"
     ],
     "advantage_language": [
       "English",
@@ -2642,7 +2651,8 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "history",
+      "politics"
     ],
     "advantage_language": [
       "English",
@@ -2669,12 +2679,13 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "news",
+      "politics"
     ],
     "advantage_language": [
       "English",
       "Chinese",
-      "others"
+      "Korean"
     ],
     "query_zh": "韩国第二位因弹劾而下台的总统在哪一年参与了独立团队调查选举期间的股价操纵事件？",
     "answer_zh": "韩国第二位因弹劾而下台的总统是尹锡悦，他在2008年参与了独立团队调查选举期间的股价操纵事件",
@@ -2697,7 +2708,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "geography"
     ],
     "advantage_language": [
       "English",
@@ -2810,7 +2821,7 @@
     ],
     "advantage_language": [
       "Russian",
-      "others"
+      "Chinese"
     ],
     "query_zh": "于1968年退出华沙条约组织（Организация Варшавского Договора）的国家在退出那一年的人民议会主席团主席什么时候去世？",
     "answer_zh": "1968年退出华沙条约组织（Организация Варшавского Договора）的是阿尔巴尼亚。阿尔巴尼亚人民议会主席团主席是哈吉·列希（Haxhi Lleshi）。哈吉·列希（Haxhi Lleshi）于1998年去世。",
@@ -2864,7 +2875,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "science_and_technology"
     ],
     "advantage_language": [
       "English"
@@ -2972,10 +2983,10 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "humanities"
     ],
     "advantage_language": [
-      "others"
+      "Hindi"
     ],
     "query_zh": "2001年，印度阿努普尔县（印地语：अनूपपुर, Anuppur）的首府的识字率是多少？",
     "answer_zh": "阿努普尔县首府是阿努普尔，2001年识字率是65.07%",
@@ -3111,7 +3122,7 @@
     "distracting_info": true,
     "false_premise": true,
     "domain": [
-      "literature"
+      "literature_and_art"
     ],
     "advantage_language": [
       "English"
@@ -3138,7 +3149,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "biology"
+      "science_and_technology"
     ],
     "advantage_language": [
       "English",
@@ -3226,7 +3237,7 @@
     ],
     "advantage_language": [
       "Chinese",
-      "others"
+      "Korean"
     ],
     "query_zh": "香港男配音员罗伟杰的妻子为2007年的韩剧《狗与狼的时间》（개와 늑대의 시간）中的哪一位角色配了音？",
     "answer_zh": "罗伟杰的妻子刘惠云在《狗与狼的时间》中为徐智友配音",
@@ -3276,7 +3287,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "economy",
+      "social_sciences",
       "education"
     ],
     "advantage_language": [
@@ -3398,8 +3409,8 @@
       "politics"
     ],
     "advantage_language": [
-      "others",
-      "Japanese"
+      "Chinese",
+      "English"
     ],
     "query_zh": "在 Avannaata Qimussersui 成为整个格陵兰岛的全国锦标赛的那一年，日本众议院议员总选举中自由民主党赢得了多少个席次？",
     "answer_zh": "Avannaata Qimussersui 在2021年成为整个格陵兰岛的全国锦标赛。同年，日本众议院议员总选举中自由民主党赢得了261个席次",
@@ -3427,8 +3438,8 @@
       "politics"
     ],
     "advantage_language": [
-      "others",
-      "Japanese"
+      "Chinese",
+      "English"
     ],
     "query_zh": "在格陵兰比赛 Avannaata Qimussersui 创立的那一年，日本哪个天皇驾崩了？",
     "answer_zh": "Avannaata Qimussersui 在1989年创立，那一年日本昭和天皇驾崩",
@@ -3453,7 +3464,7 @@
     "false_premise": false,
     "domain": [
       "music",
-      "others"
+      "social_sciences"
     ],
     "advantage_language": [
       "English"
@@ -3506,8 +3517,8 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "science",
-      "others"
+      "science_and_technology",
+      "social_sciences"
     ],
     "advantage_language": [
       "Chinese"
@@ -3586,7 +3597,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "social_sciences"
     ],
     "advantage_language": [
       "German",
@@ -3613,7 +3624,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others",
+      "social_sciences",
       "history"
     ],
     "advantage_language": [
@@ -3640,7 +3651,7 @@
     "distracting_info": true,
     "false_premise": false,
     "domain": [
-      "economy",
+      "social_sciences",
       "education"
     ],
     "advantage_language": [
@@ -3669,7 +3680,7 @@
     "distracting_info": true,
     "false_premise": false,
     "domain": [
-      "economy",
+      "social_sciences",
       "music"
     ],
     "advantage_language": [
@@ -3698,10 +3709,12 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "history",
+      "geography"
     ],
     "advantage_language": [
-      "others"
+      "Italian",
+      "English"
     ],
     "query_zh": "2004年印度国会大选获胜党党主席出生地（精确到镇）在2009年时人口密度是多少",
     "answer_zh": "2004年5月13日印度国会大选国大党获胜，国大党将支持该党主席索尼娅·甘地任总理，其出生地卢夏纳人口密度为83.4人/平方公里（2009年）",
@@ -3725,7 +3738,8 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "news",
+      "politics"
     ],
     "advantage_language": [
       "English"
@@ -3753,10 +3767,11 @@
     "false_premise": false,
     "domain": [
       "geography",
-      "culture"
+      "humanities"
     ],
     "advantage_language": [
-      "others"
+      "English",
+      "Arabic"
     ],
     "query_zh": "截至2025年4月30日，中国哪些城市和摩洛哥结为了友好城市",
     "answer_zh": "上海，杭州，昆明，常熟，成都，无锡，西安，宁波，广州，银川",
@@ -3779,10 +3794,12 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "sports",
+      "history"
     ],
     "advantage_language": [
-      "others"
+      "English",
+      "Chinese"
     ],
     "query_zh": "与梁启超同年逝世，参加1908年夏季奥林匹克运动会棍网球比赛，获得一枚银牌的人是谁？",
     "answer_zh": "乔治·亚历山大",
@@ -3806,10 +3823,11 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "literature_and_art"
     ],
     "advantage_language": [
-      "others"
+      "English",
+      "Korean"
     ],
     "query_zh": "亚洲第一位获得诺贝尔文学奖的女性其弟弟毕业的大学设立戏剧系的时间是？",
     "answer_zh": "该女性是韩江，其弟弟韩江仁毕业于首尔艺术大学，该大学于1973年12月设立戏剧系",
@@ -3859,7 +3877,8 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "politics"
+      "politics",
+      "news"
     ],
     "advantage_language": [
       "English"
@@ -3885,10 +3904,12 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "history",
+      "politics"
     ],
     "advantage_language": [
-      "others"
+      "English",
+      "Chinese"
     ],
     "query_zh": "在温家宝结束对非洲七国的第一次访问回到北京的一周前，美国、俄国、欧盟和联合国决定同意欧盟短暂恢复对哪个国家提供援助",
     "answer_zh": "温家宝结束访问回到北京的时间为2006年6月25日，一周前为2006年6月18日，美国、俄国、欧盟和联合国决定同意欧盟短暂恢复对巴勒斯坦提供援助。",
@@ -3937,7 +3958,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "academia"
+      "science_and_technology"
     ],
     "advantage_language": [
       "English"
@@ -3964,10 +3985,12 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "literature_and_art",
+      "geography"
     ],
     "advantage_language": [
-      "others"
+      "English",
+      "Malay"
     ],
     "query_zh": "截至2025年，传记《艺苑名人传》的作者出生地所在的大区有几处地点被列为世界遗产",
     "answer_zh": "《艺苑名人传》的作者是乔尔乔·瓦萨里（Giorgio Vasari），其出生地所在大区是托斯卡纳（Tuscany），有6处世界遗产",
@@ -3994,7 +4017,8 @@
       "geography"
     ],
     "advantage_language": [
-      "others"
+      "English",
+      "Malay"
     ],
     "query_zh": "亚美尼亚裔意大利光化学家、参议员同时也是太阳能板之父的出生地（精确到市）在2001年时人口数是多少",
     "answer_zh": "太阳能板之父是贾科莫·恰米奇安，其出生地是的里雅斯特，里雅斯特在2001年人口是207,069",
@@ -4018,7 +4042,8 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "politics"
+      "politics",
+      "news"
     ],
     "advantage_language": [
       "English"
@@ -4124,7 +4149,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "academia"
+      "science_and_technology"
     ],
     "advantage_language": [
       "Chinese"
@@ -4257,7 +4282,8 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "news"
+      "news",
+      "politics"
     ],
     "advantage_language": [
       "Chinese"
@@ -4288,7 +4314,8 @@
       "news"
     ],
     "advantage_language": [
-      "others"
+      "English",
+      "Chinese"
     ],
     "query_zh": "与美国花样滑冰运动员迪克·巴顿（Dick Button）同日逝世的中国男演员的逝世原因是什么",
     "answer_zh": "这个男演员是梁祐诚，他在2025年1月30日因为中枢神经感染去世",
@@ -4311,7 +4338,8 @@
     "distracting_info": true,
     "false_premise": false,
     "domain": [
-      "politics"
+      "politics",
+      "news"
     ],
     "advantage_language": [
       "English"
@@ -4369,7 +4397,8 @@
       "entertainment"
     ],
     "advantage_language": [
-      "others"
+      "English",
+      "Japanese"
     ],
     "query_zh": "在 2006 年日本媒体艺术节举办的“有史以来最伟大的漫画”的“专家”排名中， 铁臂阿童木排名第几？",
     "answer_zh": "排名第6",
@@ -4395,7 +4424,8 @@
       "sports"
     ],
     "advantage_language": [
-      "others"
+      "Chinese",
+      "English"
     ],
     "query_zh": "第一位进入NBA联盟的非白人球员与首位亚裔球员逝世那天，也有一位奥运金牌获得者去世，他是谁？",
     "answer_zh": "三阪亘是第一位进入NBA联盟的非白人球员与首位亚裔球员，他在2019年11月20日逝世。同日逝世的奥运会金牌获得者是匈牙利水球运动员德默特尔·佐尔坦（英语：Zoltán Dömötör），他获得过1964年东京奥运金牌。",
@@ -4446,7 +4476,8 @@
     "distracting_info": true,
     "false_premise": false,
     "domain": [
-      "others"
+      "entertainment",
+      "politics"
     ],
     "advantage_language": [
       "English"
@@ -4501,7 +4532,7 @@
     "distracting_info": true,
     "false_premise": false,
     "domain": [
-      "art"
+      "literature_and_art"
     ],
     "advantage_language": [
       "English"
@@ -4528,7 +4559,7 @@
     "false_premise": false,
     "domain": [
       "news",
-      "others"
+      "social_sciences"
     ],
     "advantage_language": [
       "English"
@@ -4554,7 +4585,8 @@
     "distracting_info": true,
     "false_premise": false,
     "domain": [
-      "news"
+      "news",
+      "education"
     ],
     "advantage_language": [
       "Chinese"
@@ -4611,7 +4643,8 @@
     "distracting_info": true,
     "false_premise": false,
     "domain": [
-      "others"
+      "news",
+      "sports"
     ],
     "advantage_language": [
       "Chinese"
@@ -4643,7 +4676,8 @@
       "music"
     ],
     "advantage_language": [
-      "others"
+      "Chinese",
+      "Japanese"
     ],
     "query_zh": "塞壬唱片于2025年5月1日发布了一张EP，该EP的演唱者在同一时期担任哪一只乐队的主唱？",
     "answer_zh": "塞壬唱片于2025年5月1日发布的EP是Heavenly Me，其演唱者为理名，她在2025年担任无刺有刺（TOGENASHI TOGEARI）乐队的主场",
@@ -4753,7 +4787,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others"
+      "social_sciences"
     ],
     "advantage_language": [
       "English"
@@ -4834,7 +4868,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "others",
+      "science_and_technology",
       "film_and_tv"
     ],
     "advantage_language": [
@@ -4888,7 +4922,8 @@
     "distracting_info": true,
     "false_premise": true,
     "domain": [
-      "politics"
+      "politics",
+      "news"
     ],
     "advantage_language": [
       "English"
@@ -5134,7 +5169,7 @@
     "false_premise": false,
     "domain": [
       "politics",
-      "culture"
+      "humanities"
     ],
     "advantage_language": [
       "Chinese",
@@ -5351,7 +5386,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "technology"
+      "science_and_technology"
     ],
     "advantage_language": [
       "Chinese"
@@ -5406,7 +5441,7 @@
     "false_premise": false,
     "domain": [
       "politics",
-      "others"
+      "social_sciences"
     ],
     "advantage_language": [
       "Chinese"
@@ -5432,7 +5467,7 @@
     "distracting_info": true,
     "false_premise": false,
     "domain": [
-      "others"
+      "science_and_technology"
     ],
     "advantage_language": [
       "English"
@@ -5545,7 +5580,7 @@
     "distracting_info": false,
     "false_premise": true,
     "domain": [
-      "religion"
+      "humanities"
     ],
     "advantage_language": [
       "Chinese"
@@ -5576,7 +5611,7 @@
       "film_and_tv"
     ],
     "advantage_language": [
-      "others"
+      "Korean"
     ],
     "query_zh": "韩国节目《妈妈是偶像》产生的音乐团体中，年纪第三大的成员第二次为电视剧演唱os是给哪部电视剧的？",
     "answer_zh": "韩国节目《妈妈是偶像》产生的音乐团体是MAMADOL。其中，年纪第三大的成员是Star（或者叫Byul ，本名金高恩，韩语：김고은）。她第二次为电视剧唱的ost是《我们应对离别的方式》（이별에 대처하는 우리의 자세）中的 설레임 (근영 Llove 테마)和곁에서만 들리는。",
@@ -5603,7 +5638,7 @@
       "music"
     ],
     "advantage_language": [
-      "others"
+      "Korean"
     ],
     "query_zh": "韩国女子团体HITGS公布的首位成员在团体中年纪第几大？",
     "answer_zh": "韩国女子团体HITGS公布的首位成员是赵暳潾（韩语：조혜린）。她在团体中年纪排第4。",
@@ -5630,7 +5665,7 @@
       "music"
     ],
     "advantage_language": [
-      "others"
+      "Korean"
     ],
     "query_zh": "韩国公司STARSHIP娱乐歌手部门二本部最早出道的团体的粉丝名称是什么？",
     "answer_zh": "韩国公司STARSHIP娱乐歌手部门二本部最早出道的团体是宇宙少女，粉丝名称是UJUNG（우정）。",
@@ -5905,7 +5940,8 @@
       "history"
     ],
     "advantage_language": [
-      "Arabic"
+      "Arabic",
+      "English"
     ],
     "query_zh": "1864年出生了一位伊拉克的部落首领和政治家，他死于哪一年？",
     "answer_zh": "该政治家为沙兰·阿布·阿尔琼（Shaalan Abu al-Jun），他死于1941年",
@@ -6096,7 +6132,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "economy",
+      "social_sciences",
       "education"
     ],
     "advantage_language": [
@@ -6124,7 +6160,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "economy"
+      "social_sciences"
     ],
     "advantage_language": [
       "English"
@@ -6178,7 +6214,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "literature",
+      "literature_and_art",
       "history"
     ],
     "advantage_language": [
@@ -6206,7 +6242,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "literature",
+      "literature_and_art",
       "history"
     ],
     "advantage_language": [
@@ -6235,7 +6271,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "literature"
+      "literature_and_art"
     ],
     "advantage_language": [
       "English",
@@ -6263,7 +6299,8 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "politics"
+      "politics",
+      "news"
     ],
     "advantage_language": [
       "English"
@@ -6292,10 +6329,10 @@
     "false_premise": false,
     "domain": [
       "politics",
-      "art"
+      "literature_and_art"
     ],
     "advantage_language": [
-      "others"
+      "Icelandic"
     ],
     "query_zh": "1923年的冰岛总理（prime minister）在1932年创作了什么戏剧",
     "answer_zh": "1923年的冰岛总理西格杜尔·艾格兹（Sigurður Eggerz）在1932年创作了戏剧《在黑暗中》（Í sortanum）",
@@ -6319,7 +6356,7 @@
     "false_premise": false,
     "domain": [
       "film_and_tv",
-      "art"
+      "literature_and_art"
     ],
     "advantage_language": [
       "English"
@@ -6346,7 +6383,7 @@
     "distracting_info": false,
     "false_premise": false,
     "domain": [
-      "medicine",
+      "science_and_technology",
       "history"
     ],
     "advantage_language": [
@@ -6375,7 +6412,7 @@
     "false_premise": false,
     "domain": [
       "film_and_tv",
-      "others"
+      "film_and_tv"
     ],
     "advantage_language": [
       "Chinese"
