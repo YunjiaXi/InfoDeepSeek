@@ -12,8 +12,12 @@ The questions in the benchmark meet the following criteria:
 * Difficulty: Even the most advanced models struggle to answer successfully with a single round of search, requiring multi-round planning and information retrieval abilities.
 * Diversity: It covers a wide range of question types (multi-hop, long-tail, time-sensitive, fresh events, distractions, false premises), domains, and major languages, addressing various real-world issues.
 
+See our paper for more details: [InfoDeepSeek: Benchmarking Agentic Information
+Seeking for Retrieval-Augmented Generation](https://arxiv.org/pdf/2505.15872).
+
 ## News
 
+* 2025.5.23 - [Our Paper](https://arxiv.org/pdf/2505.15872) has released!
 * 2025.5.15 - Public release
 
 ## Dataset
