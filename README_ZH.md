@@ -10,10 +10,12 @@ InfoDeepSeek是一个专为真实网络环境中的Agent的信息搜寻任务量
   * 困难性：最先进的模型也难以在单轮搜索下回答成功，需要agent多轮规划和信息搜寻能力。
   * 多样性：覆盖不同的问题类型（多跳、长尾、时间敏感、新鲜事、干扰信息、虚假前提）、领域和优势语言，以覆盖真实环境中各种问题。
 
-[//]: # (更多的细节见我们的[论文]&#40;&#41;。)
+更多的细节见我们的论文：[InfoDeepSeek: Benchmarking Agentic Information
+Seeking for Retrieval-Augmented Generation](https://arxiv.org/pdf/2505.15872)。
 
 
 ## 动态
+* 2025.5.23 - [论文](https://arxiv.org/pdf/2505.15872)发布
 * 2025.5.15 - 项目公开
 
 ## 数据集
@@ -156,9 +158,16 @@ sh script/run_bing.sh
 sh script/run_yahoo.sh
 ```
 
-
-[//]: # (## 引用)
-
+## 引用
+```
+@article{xi2025infodeepseek,
+        title={InfoDeepSeek: Benchmarking Agentic Information Seeking for Retrieval-Augmented Generation},
+        author={Yunjia Xi and Jianghao Lin and Menghui Zhu and Yongzhao Xiao and Zhuoying Ou and Jiaqi Liu and Tong Wan and Bo Chen and Weiwen Liu and Yasheng Wang and Ruiming Tang and Weinan Zhang and Yong Yu},
+        year={2025},
+        journal={arXiv preprint arXiv:2505.15872},
+        url={https://arxiv.org/abs/2505.15872},
+}
+```
 
 ## License
 本项目采用[CC BY-NC 4.0](LICENSE)进行许可。该许可协议允许在非商业目的下对作品进行共享和改编，但须给予适当的署名。如需快速了解，请访问[知识共享许可协议](https://creativecommons.org/licenses/by-nc/4.0/)。
