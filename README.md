@@ -161,7 +161,16 @@ For Yahoo：
 sh script/run_yahoo.sh
 ```
 
-[//]: # (## Citations)
+## Citations
+```
+@article{xi2025infodeepseek,
+        title={InfoDeepSeek: Benchmarking Agentic Information Seeking for Retrieval-Augmented Generation},
+        author={Yunjia Xi and Jianghao Lin and Menghui Zhu and Yongzhao Xiao and Zhuoying Ou and Jiaqi Liu and Tong Wan and Bo Chen and Weiwen Liu and Yasheng Wang and Ruiming Tang and Weinan Zhang and Yong Yu},
+        year={2025},
+        journal={arXiv preprint arXiv:2505.15872},
+        url={https://arxiv.org/abs/2505.15872},
+}
+```
 
 
 ## License
